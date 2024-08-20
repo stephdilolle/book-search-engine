@@ -4,6 +4,7 @@
 
 We were tasked with transforming existing code for a Book Search Engine- changing it to a GraphQL API from a RESTful API.
 I have attempted to do this but his a roadblock. I can get the application to open successfully by running npm install and npm run start from the Develop folder, however, it keeps exiting the Render deployment with errors related to bcrypt.
+I connected a database with MongoDB Atlas, ran the vite build, and created the files specified in the original README, but I did not get much farther. As it is nearing the deadline and this is my last assignment due, I filed for an extension but have not yet heard back. I hope to be granted the extension to debug and finish this assignment properly.
 
 
 ## Installation
